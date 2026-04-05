@@ -52,5 +52,6 @@ The application uses a `JTabbedPane` layout for a clean user experience:
 
 ---
 
-**Author:** Ilban Daniel 
+**Author:** Ilban Daniel
+
 **Project Type:** Academic / Object-Oriented Programming 
